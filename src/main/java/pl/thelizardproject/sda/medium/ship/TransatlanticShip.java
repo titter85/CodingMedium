@@ -9,7 +9,7 @@ public class TransatlanticShip extends Ship {
     public TransatlanticShip() {
         super(10000);
         this.shipType = ShipType.Transatlantic;
-        this.capacity = 5000;
+        this.capacity = 6000;
     }
 
     @Override
